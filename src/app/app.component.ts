@@ -50,6 +50,10 @@ export class AppComponent  {
 		  draggable: true
 	  }
   ]
+
+
+
+
 }
 
 // just an interface for type safety.
